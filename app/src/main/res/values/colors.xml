@@ -5,6 +5,7 @@
     <color name="colorAccent">#FF4081</color>
     <color name="colorStyle">#FF4664</color>
     <color name="colorPurple">#701eb7</color>
+    <color name="colorHashBackground">#b2beb5</color>
     <color name="colorWhite">#ffffff</color>
 
 </resources>
